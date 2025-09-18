@@ -10,3 +10,5 @@ how to make a enviorment:
 2. python3 -m venv venv
 3. source venv/bin/activate
 4. pip install -r requirements.txt
+
+Install the sensor data from kaggle: https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
